@@ -2,20 +2,21 @@
 
 Welcome to the Python Practice Exercises! This collection contains 20 carefully crafted exercises designed to take you from absolute beginner to intermediate Python programmer.
 
-## How to Use These Exercises
+## Folder Structure
 
-Each exercise consists of three files:
+Each exercise is contained in its own folder (`exercise_01/`, `exercise_02/`, etc.) with three files:
 - **`exercise_XX_problem.md`** - Describes the problem, learning objectives, requirements, and hints
 - **`exercise_XX_solution.md`** - Contains the solution with detailed explanations and key concepts
 - **`exercise_XX.py`** - A starter file with comments and hints to help you code
 
 ## Recommended Approach
 
-1. **Read the problem** file (`exercise_XX_problem.md`) carefully
-2. **Try to solve it yourself** using the starter file (`exercise_XX.py`)
-3. **Check the solution** (`exercise_XX_solution.md`) only after attempting the problem
-4. **Understand, don't just copy** - Read the explanations and key concepts
-5. **Experiment** - Modify the code and try variations
+1. Navigate to the exercise folder (e.g., `cd exercise_01/`)
+2. **Read the problem** file (`exercise_XX_problem.md`) carefully
+3. **Try to solve it yourself** using the starter file (`exercise_XX.py`)
+4. **Check the solution** (`exercise_XX_solution.md`) only after attempting the problem
+5. **Understand, don't just copy** - Read the explanations and key concepts
+6. **Experiment** - Modify the code and try variations
 
 ## Exercise Overview
 
@@ -73,20 +74,23 @@ Throughout these exercises, you'll learn:
 
 ## Running the Exercises
 
+Navigate to an exercise folder and run the Python file:
+
 ### Using Python directly:
 ```bash
+cd exercise_01
 python exercise_01.py
 ```
 
 ### Using Python 3 explicitly:
 ```bash
+cd exercise_01
 python3 exercise_01.py
 ```
 
-### In an interactive Python environment:
+### From the exercises directory:
 ```bash
-python
->>> exec(open('exercise_01.py').read())
+python exercise_01/exercise_01.py
 ```
 
 ## Tips for Success
