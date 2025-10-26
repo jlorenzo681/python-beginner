@@ -1,6 +1,6 @@
 # Python Practice Exercises
 
-Welcome to the Python Practice Exercises! This collection contains 20 carefully crafted exercises designed to take you from absolute beginner to intermediate Python programmer.
+Welcome to the Python Practice Exercises! This collection contains 25 carefully crafted exercises designed to take you from absolute beginner to intermediate Python programmer.
 
 ## Folder Structure
 
@@ -56,6 +56,15 @@ Take your Python skills to the next level.
 - **Exercise 19: Palindrome Checker** - Advanced string manipulation
 - **Exercise 20: Prime Number Finder** - Algorithms and optimization
 
+### Level 5: Capstone Projects (Exercises 21-25)
+Master Python by building complex, multi-feature applications.
+
+- **Exercise 21: Number Guessing Game with Statistics** - Enhanced game with tracking and hints
+- **Exercise 22: Simple Caesar Cipher** - Encryption/decryption with character manipulation
+- **Exercise 23: Shopping List Manager** - CRUD operations with complex data structures
+- **Exercise 24: Simple Grade Book** - Statistical analysis and nested data structures
+- **Exercise 25: Text-Based Adventure Game** - Comprehensive game combining all concepts
+
 ## Key Concepts Covered
 
 Throughout these exercises, you'll learn:
@@ -64,13 +73,19 @@ Throughout these exercises, you'll learn:
 - ✅ Operators (arithmetic, comparison, logical)
 - ✅ Control flow (if/else, loops)
 - ✅ Functions (definition, parameters, return values)
-- ✅ Data structures (lists, dictionaries)
-- ✅ String manipulation
-- ✅ File I/O
-- ✅ Modules (random, time)
+- ✅ Data structures (lists, dictionaries, sets)
+- ✅ String manipulation and character encoding
+- ✅ File I/O and JSON serialization
+- ✅ Modules (random, time, json)
 - ✅ List comprehensions
-- ✅ Error handling basics
+- ✅ Error handling and input validation
 - ✅ Algorithm implementation
+- ✅ Game state management
+- ✅ CRUD operations (Create, Read, Update, Delete)
+- ✅ Statistical calculations
+- ✅ Nested data structures
+- ✅ Menu-driven applications
+- ✅ Encryption/decryption basics
 
 ## Running the Exercises
 
@@ -135,26 +150,40 @@ After completing these exercises, you'll have a solid foundation in Python. Cons
 
 Track your progress by checking off completed exercises:
 
+### Level 1: Basics
 - [ ] Exercise 1: Hello, World!
 - [ ] Exercise 2: Personal Greeting
 - [ ] Exercise 3: Simple Calculator
 - [ ] Exercise 4: User Input
 - [ ] Exercise 5: Temperature Converter
+
+### Level 2: Control Flow
 - [ ] Exercise 6: Even or Odd
 - [ ] Exercise 7: Grade Calculator
 - [ ] Exercise 8: Multiplication Table
 - [ ] Exercise 9: Sum of Numbers
 - [ ] Exercise 10: Simple Calculator Function
+
+### Level 3: Data Structures
 - [ ] Exercise 11: List Operations
 - [ ] Exercise 12: Shopping List Manager
 - [ ] Exercise 13: String Manipulation
 - [ ] Exercise 14: Student Grade Book
 - [ ] Exercise 15: Word Frequency Counter
+
+### Level 4: Advanced Concepts
 - [ ] Exercise 16: List Comprehensions
 - [ ] Exercise 17: File Operations
 - [ ] Exercise 18: Number Guessing Game
 - [ ] Exercise 19: Palindrome Checker
 - [ ] Exercise 20: Prime Number Finder
+
+### Level 5: Capstone Projects
+- [ ] Exercise 21: Number Guessing Game with Statistics
+- [ ] Exercise 22: Simple Caesar Cipher
+- [ ] Exercise 23: Shopping List Manager
+- [ ] Exercise 24: Simple Grade Book
+- [ ] Exercise 25: Text-Based Adventure Game
 
 ## Additional Resources
 
